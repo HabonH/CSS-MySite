@@ -5,6 +5,18 @@ h1 {
   margin: 0;
 }
 
-div {
-  background-color: #FFB3B3;
+.top-container {
+background-color: #FFB3B3;
+}
+
+.middle-container {
+background-color: purple;
+width: 200px;
+height: 200px;
+}
+
+.bottom-container {
+background-color: lightgreen;
+width: 200px;
+height: 200px;
 }
