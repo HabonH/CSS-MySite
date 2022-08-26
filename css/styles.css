@@ -34,3 +34,8 @@ padding-top: 100px;
   left: 300px;
   bottom: 300px;
 }
+
+.resize {
+  height: 260px;
+  width: 260px;
+}
