@@ -5,13 +5,14 @@ body {
 }
 
 h1 {
-  font-size: 3.625em;
   margin-top: 0;
-  font-family: 'Silkscreen', cursive;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
 }
 
 h2 {
   margin-top: 0;
+  font-size: 2.5rem;
   font-family: 'Silkscreen', cursive;
 }
 
