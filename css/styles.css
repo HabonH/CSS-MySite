@@ -4,7 +4,17 @@ body {
   font-family: 'Montserrat Alternates', sans-serif;
 }
 
-h1, h2, h3 {
+h1 {
+  margin-top: 0;
+  font-family: 'Silkscreen', cursive;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Silkscreen', cursive;
+}
+
+h3 {
   margin-top: 0;
   font-family: 'Silkscreen', cursive;
 }
