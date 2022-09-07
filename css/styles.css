@@ -8,19 +8,24 @@ h1 {
   margin: 50px auto 0 auto;
   font-size: 5.625rem;
   font-family: 'Sacramento', cursive;
-  color: #F6D7A7;
+  color: #F0C48A;
+  font-weight: normal;
 }
 
 h2 {
   margin-top: 0;
   font-size: 2.5rem;
   font-family: 'Silkscreen', cursive;
-  color: #F6D7A7;
+  color: #F0C48A;
+  font-weight: normal;
+
 }
 
 h3 {
   margin-top: 0;
   font-family: 'Silkscreen', cursive;
+  color: #F0C48A;
+
 }
 
 .top-container {
@@ -52,4 +57,8 @@ padding-top: 100px;
 .resize {
   height: 260px;
   width: 260px;
+}
+
+footer-link {
+  color: #F0C48A;
 }
