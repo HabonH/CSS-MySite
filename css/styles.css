@@ -60,6 +60,11 @@ padding-top: 100px;
   width: 260px;
 }
 
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
 footer-link {
   color: #F0C48A;
 }
