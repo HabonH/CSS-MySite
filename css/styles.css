@@ -9,7 +9,8 @@ h1 {
   font-size: 5.625rem;
   font-family: 'Sacramento', cursive;
   color: #F0C48A;
-  font-weight: normal;
+  font-weight: 600;
+  line-height: 2;
 }
 
 h2 {
