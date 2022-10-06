@@ -112,7 +112,7 @@ padding-top: 25px;
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Silkscreen', cursive;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -129,6 +129,10 @@ padding-top: 25px;
   text-decoration: none;
 }
 
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
 .water-mark {
 
 }
