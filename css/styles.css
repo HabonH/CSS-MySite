@@ -65,8 +65,13 @@ padding-top: 25px;
   margin: 25px 0 25px 0;
 }
 
+.intro  {
+  width: 20%;
+  margin: auto;
+}
+
 .selfie {
-  width: 25%;
+  width: 20%;
 }
 
 .code-img {
