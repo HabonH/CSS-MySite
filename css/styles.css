@@ -55,8 +55,18 @@ padding-top: 100px;
   bottom: 300px;
 }
 
-.code-img, .water-color-img {
+.code-img {
   width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.water-color-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  
 }
 
 .skill-row {
