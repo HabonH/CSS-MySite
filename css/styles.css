@@ -28,7 +28,10 @@ h3 {
   color: #F0C48A;
 
 }
-
+.dotted {
+  border: none;
+  border-top: 5px dotted #EAF6F6;
+}
 .top-container {
 background-color: #F6EABE;
 position: relative;
@@ -36,7 +39,7 @@ padding-top: 100px;
 }
 
 .middle-container {
-
+color: #40514E;
 }
 
 .bottom-container {
@@ -62,6 +65,7 @@ padding-top: 100px;
 .selfie {
   width: 25%;
 }
+
 .code-img {
   width: 25%;
   float: left;
