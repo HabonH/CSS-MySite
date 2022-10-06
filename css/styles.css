@@ -55,6 +55,13 @@ padding-top: 100px;
   bottom: 300px;
 }
 
+.profile {
+  margin: 25px 0 25px 0;
+}
+
+.selfie {
+  width: 25%;
+}
 .code-img {
   width: 25%;
   float: left;
