@@ -29,10 +29,18 @@ h3 {
   color: #F0C48A;
 
 }
-.dotted {
-  border: none;
-  border-top: 5px dotted #EAF6F6;
+
+.p {
+  line-height: 2;
 }
+
+.dotted {
+  border: 5px dotted lightgray;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
 .top-container {
 background-color: #F6EABE;
 position: relative;
@@ -52,12 +60,12 @@ padding-top: 25px;
 .top-cloud {
   position: absolute;
   right: 300px;
-  top: 50px;
+  top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 250px;
   bottom: 300px;
 }
 
@@ -91,7 +99,7 @@ padding-top: 25px;
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
+
 }
 
 .btn {
