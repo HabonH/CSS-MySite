@@ -53,8 +53,7 @@ padding-top: 100px;
 
 .bottom-container {
 background-color: #F6EABE;
-margin-top: 25px;
-padding-top: 25px;
+padding: 50px 0 20px;
 }
 
 .top-cloud {
@@ -133,10 +132,17 @@ padding-top: 25px;
   width: 40%;
   margin: 40px auto 60px;
 }
-.water-mark {
-
+.copyright {
+font-size: 0.75rem;
 }
-.footer-link {
+
+a {
   color: #F0C48A;
+  font-family: 'Silkscreen', cursive;
+  margin: 10px 20px; 
   text-decoration: none;
+}
+
+a:hover {
+  color: #FB919E;
 }
