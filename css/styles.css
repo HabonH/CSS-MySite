@@ -43,7 +43,7 @@ color: #40514E;
 }
 
 .bottom-container {
-
+background-color: #F6EABE;
 }
 
 .top-cloud {
@@ -87,6 +87,37 @@ color: #40514E;
   line-height: 2;
 }
 
-footer-link {
+.btn {
+  background: #F6EABE;
+  background-image: -webkit-linear-gradient(top, #F6EABE, #edbb79);
+  background-image: -moz-linear-gradient(top, #F6EABE, #edbb79);
+  background-image: -ms-linear-gradient(top, #F6EABE, #edbb79);
+  background-image: -o-linear-gradient(top, #F6EABE, #edbb79);
+  background-image: linear-gradient(to bottom, #F6EABE, #edbb79);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FB919E;
+  background-image: -webkit-linear-gradient(top, #FB919E, #f0526a);
+  background-image: -moz-linear-gradient(top, #FB919E, #f0526a);
+  background-image: -ms-linear-gradient(top, #FB919E, #f0526a);
+  background-image: -o-linear-gradient(top, #FB919E, #f0526a);
+  background-image: linear-gradient(to bottom, #FB919E, #f0526a);
+  text-decoration: none;
+}
+
+.water-mark {
+
+}
+.footer-link {
   color: #F0C48A;
+  text-decoration: none;
 }
